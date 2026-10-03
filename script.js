@@ -11,3 +11,6 @@ function openmodole(){if(!)return
         )
     }
 }
+function closeModal(){
+    if(!modal) return
+}
